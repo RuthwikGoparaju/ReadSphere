@@ -1,0 +1,5 @@
+{
+  "name": "ReadSphere",
+  "description": "A minimal, elegant ebook reading platform with flipbook and scroll views.",
+  "requestFramePermissions": []
+}
